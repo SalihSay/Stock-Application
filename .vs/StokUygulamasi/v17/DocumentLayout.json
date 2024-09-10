@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|c:\\users\\salih\\source\\repos\\stokuygulamasi\\stokuygulamasi\\stockchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\stockchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\stockchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\stockchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\pcbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\pcbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\pcbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\pcbstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\productionstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\productionstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\productionstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\productionstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|C:\\Users\\salih\\source\\repos\\StokUygulamasi\\stokuygulamasi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ED13C3-288C-4DC4-8F1C-B730270CB90F}|StokUygulamasi\\StokUygulamasi.csproj|solutionrelative:stokuygulamasi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\Admin.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\Admin.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\Admin.cs [Design]",
+              "RelativeToolTip": "StokUygulamasi\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:46:13.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockChanges.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\StockChanges.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\StockChanges.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\StockChanges.cs",
+              "RelativeToolTip": "StokUygulamasi\\StockChanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:01:41.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductionStockForm.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\ProductionStockForm.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\ProductionStockForm.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\ProductionStockForm.cs",
+              "RelativeToolTip": "StokUygulamasi\\ProductionStockForm.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAlwOcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:57:32.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductionStockForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\ProductionStockForm.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\ProductionStockForm.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\ProductionStockForm.cs [Design]",
+              "RelativeToolTip": "StokUygulamasi\\ProductionStockForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:57:30.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockChanges.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\StockChanges.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\StockChanges.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\StockChanges.cs [Design]",
+              "RelativeToolTip": "StokUygulamasi\\StockChanges.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:54:38.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PcbStock.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\PcbStock.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\PcbStock.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\PcbStock.cs",
+              "RelativeToolTip": "StokUygulamasi\\PcbStock.cs",
+              "ViewState": "AQIAAJYBAAAAAAAAAAAlwJwBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:13:03.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PcbStock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\PcbStock.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\PcbStock.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\PcbStock.cs [Design]",
+              "RelativeToolTip": "StokUygulamasi\\PcbStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:13:01.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\AnaForm.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\AnaForm.cs",
+              "RelativeToolTip": "StokUygulamasi\\AnaForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAhwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:12:37.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\AnaForm.cs",
+              "RelativeDocumentMoniker": "StokUygulamasi\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\salih\\source\\repos\\StokUygulamasi\\StokUygulamasi\\AnaForm.cs [Design]",
+              "RelativeToolTip": "StokUygulamasi\\AnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:12:35.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
